@@ -1,0 +1,12 @@
+.content{
+   height: 200px;
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   transform: translate(0px,0px);
+   
+}
+.circle{
+   transition: 200ms;
+}
